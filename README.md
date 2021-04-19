@@ -1,2 +1,3 @@
 # horreurApli
  
+lancer le .exe
